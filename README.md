@@ -8,7 +8,7 @@ They are free for any use :)
 
 Language| Java | Python | Rust | C | C++ | JavaScript  | Go | C# | Ruby | Swift
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- | 
-CORDIC |  | :+1: |  |  |  |  |  |  |
+CORDIC | :+1: |  |  |  |  |  |  |  |
 NthCombination | :+1: |  |  |  |   |  |  |  |
 CombinationIteration | :+1: |  |  |  |  |  |  |  |
 
